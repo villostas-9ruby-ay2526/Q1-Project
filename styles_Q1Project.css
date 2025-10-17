@@ -1,0 +1,52 @@
+body{
+	background-image: url(https://static.vecteezy.com/system/resources/previews/021/249/965/non_2x/background-starry-night-sky-stars-sky-night-silhouette-of-the-mountains-vector.jpg);
+	background-size: no cover;
+	background-repeat: no repeat;
+	font-family: "Playwrite US Modern", cursive;
+  	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+}
+
+.container{
+	width: 95%;
+	padding: 15px;
+	margin: auto;
+	border: 5px solid midnightblue;
+	color: ghostwhite;
+	display: flex;
+	
+}
+
+.intro{
+	width: 55%;
+	padding: 15e	11px;
+	margin: 5px;
+	border: 4px dotted rebeccapurple;
+	background-color: black;
+}
+
+
+.bottom-div{
+  position: absolute;
+  bottom: -110%;
+  left: 25%; 
+  width: 45%;
+  border: 4px dotted rebeccapurple;
+  background-color: black;
+
+
+}
+
+.independent-form{
+        position: absolute;
+        background-color: black;
+        width: 100%;
+        border-radius: 15px;
+        border: 15px ridge midnightblue;
+        display: block;
+        bottom: -65%;
+        left: -1%;
+
+}
+
